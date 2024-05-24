@@ -1,5 +1,6 @@
 ED-Copilot
 =========================
+This repository contains the source code and datasets for [ED-Copilot: Reduce Emergency Department Wait Time with Language Model Diagnostic Assistance](https://arxiv.org/pdf/2402.13448) accepted to ICML 2024.
 ## Requirements and Setup
 MIMIC-IV-ED can be downloaded from https://physionet.org/content/mimic-iv-ed/2.2
 
@@ -37,4 +38,15 @@ python3 main.py --mode test
 ~~~
 ## Acknowledge
 Some parts of our code are adapted from the [MIMIC-IV-ED benchmark](https://github.com/nliulab/mimic4ed-benchmark) repository. 
-
+## Citations
+Please cite the following paper if you find the benchmark and code helpful for your research.
+```
+@misc{sun2024edcopilot,
+      title={ED-Copilot: Reduce Emergency Department Wait Time with Language Model Diagnostic Assistance}, 
+      author={Liwen Sun and Abhineet Agarwal and Aaron Kornblith and Bin Yu and Chenyan Xiong},
+      year={2024},
+      eprint={2402.13448},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
