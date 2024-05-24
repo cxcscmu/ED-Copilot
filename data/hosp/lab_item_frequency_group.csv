@@ -1,0 +1,68 @@
+itemid,label,fluid,category,ed_labs,ed_most_common_labs,frequency,grouping
+51006,Urea Nitrogen,Blood,Chemistry,1,1,31413,chem
+51221,Hematocrit,Blood,Hematology,1,1,31412,cbc
+51301,White Blood Cells,Blood,Hematology,1,1,31406,cbc
+51222,Hemoglobin,Blood,Hematology,1,1,31401,cbc
+51279,Red Blood Cells,Blood,Hematology,1,1,31397,cbc
+51250,Mean corpuscular volume,Blood,Hematology,1,1,31396,cbc
+51248,Mean corpuscular hemoglobin,Blood,Hematology,1,1,31393,cbc
+51249,Mean corpuscular hemoglobin concentration,Blood,Hematology,1,1,31393,cbc
+51277,Red blood cell distribution width,Blood,Hematology,1,1,31381,cbc
+51265,Platelet Count,Blood,Hematology,1,1,31354,cbc
+50912,Creatinine,Blood,Chemistry,1,1,31303,chem
+51146,Basophils,Blood,Hematology,1,,30736,cbc
+51200,Eosinophils,Blood,Hematology,1,1,30736,cbc
+51244,Lymphocytes,Blood,Hematology,1,1,30736,cbc
+51254,Monocytes,Blood,Hematology,1,1,30736,cbc
+51256,Neutrophils,Blood,Hematology,1,1,30736,cbc
+50983,Sodium,Blood,Chemistry,1,1,30721,chem
+50902,Chloride,Blood,Chemistry,1,1,30719,chem
+50882,Bicarbonate,Blood,Chemistry,1,1,30708,chem
+50931,Glucose (Chemistry),Blood,Chemistry,1,1,30707,chem
+50971,Potassium,Blood,Chemistry,1,1,30698,chem
+50868,Anion Gap,Blood,Chemistry,1,1,30692,chem
+52172,Red cell distribution width (standard deviation),Blood,Hematology,1,,20609,cbc
+51133,Absolute Lymphocyte Count,Blood,Hematology,1,,20250,cbc
+52069,Absolute Basophil Count,Blood,Hematology,1,,20250,cbc
+52073,Absolute Eosinophil Count,Blood,Hematology,1,1,20250,cbc
+52074,Absolute Monocyte Count,Blood,Hematology,1,1,20250,cbc
+52075,Absolute Neutrophil Count,Blood,Hematology,1,1,20250,cbc
+51274,Prothrombin Time,Blood,Hematology,1,1,15937,coag
+51237,INR(PT),Blood,Hematology,1,1,15934,coag
+51275,PTT,Blood,Hematology,1,1,15835,coag
+51491,pH (Urine),Urine,Hematology,1,1,14459,UA
+50813,Lactate,Blood,Blood Gas,1,1,14172,lactate
+51498,Specific Gravity,Urine,Hematology,1,1,14023,UA
+50863,Alkaline Phosphatase,Blood,Chemistry,1,1,13469,LFTs
+50878,Asparate Aminotransferase (AST),Blood,Chemistry,1,1,13469,LFTs
+50861,Alanine Aminotransferase (ALT),Blood,Chemistry,1,1,13338,LFTs
+50885,"Bilirubin, Total",Blood,Chemistry,1,1,13239,LFTs
+50862,Albumin,Blood,Chemistry,1,1,13111,LFTs
+50956,Lipase,Blood,Chemistry,1,1,10592,lipase
+50960,Magnesium,Blood,Chemistry,1,1,9580,lytes
+50893,"Calcium, Total",Blood,Chemistry,1,,9563,chem
+50970,Phosphate,Blood,Chemistry,1,1,9446,lytes
+51493,Red Blood Count (Urine),Urine,Hematology,1,1,9166,UA
+51516,White Blood Count (Urine),Urine,Hematology,1,1,8904,UA
+51476,Epithelial Cells,Urine,Hematology,1,1,8352,UA
+51492,Protein,Urine,Hematology,1,1,4981,UA
+50822,"Potassium, Whole Blood",Blood,Blood Gas,1,1,2963,blood gas
+51482,Hyaline Casts,Urine,Hematology,1,,2798,UA
+50963,NTproBNP,Blood,Chemistry,1,1,2653,cardio
+51484,Ketone,Urine,Hematology,1,1,2291,UA
+51003,Troponin T,Blood,Chemistry,1,1,2161,cardio
+51514,Urobilinogen,Urine,Hematology,1,1,2125,UA
+50910,Creatine Kinase (CK),Blood,Chemistry,1,1,2047,inflammation
+51144,Bands,Blood,Hematology,1,1,1994,cbc
+51143,Atypical Lymphocytes,Blood,Hematology,1,1,1907,cbc
+50820,pH (blood gas),Blood,Blood Gas,1,1,1892,blood gas
+50804,Calculated Total CO2,Blood,Blood Gas,1,1,1745,blood gas
+50802,Base Excess,Blood,Blood Gas,1,1,1743,blood gas
+50821,pO2,Blood,Blood Gas,1,1,1743,blood gas
+50818,pCO2,Blood,Blood Gas,1,1,1742,blood gas
+51478,Glucose (Urine),Urine,Hematology,1,1,1282,UA
+50922,Ethanol,Blood,Chemistry,1,1,1182,tox
+50889,C-Reactive Protein,Blood,Chemistry,1,1,1130,inflammation
+50809,Glucose (Blood Gas),Blood,Blood Gas,1,1,1106,blood gas
+50824,"Sodium, Whole Blood",Blood,Blood Gas,1,1,1100,blood gas
+51257,Nucleated Red Cells,Blood,Hematology,1,,1002,cbc
