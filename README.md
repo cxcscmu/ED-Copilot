@@ -32,7 +32,8 @@ torchrun --standalone --nproc-per-node=gpu main_sft.py
 ~~~
 python3 main.py
 ~~~
-### 4. ED-Copilot Test
+### 5. ED-Copilot Test
+The trained SFT and RL checkpoint for critical outcome can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Jl0c2euAFwUy7O6GblWss38pRycBHj5t) and put under `/outputs/critical/`
 ~~~
 python3 main.py --mode test
 ~~~
